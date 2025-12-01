@@ -1,0 +1,1 @@
+export default function Analytics(){return <h1 class='text-xl'>Analytics Coming Soon</h1>}
